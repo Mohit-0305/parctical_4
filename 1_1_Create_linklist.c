@@ -8,6 +8,7 @@ struct node
     int data;
     struct node *next;
 };
+
 int main()
 {
     struct node *a, *b, *c, *d;
